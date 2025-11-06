@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
-    "build": "react-scripts build"
+    "build": "next build"
   },
   "repository": {
     "type": "git",
